@@ -18,6 +18,7 @@ body {
     margin: auto;
     background-color: rgb(122, 112, 216);
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
+    border-radius: 20px;
 }
 
 .display-box {
